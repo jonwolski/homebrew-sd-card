@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1.0">
+	<name>IOS236 Installer v6</name>
+	<version>6</version>
+        <release_date>20110714190000</release_date>
+	<coder>Originally made by Dr Clipper and network bug fixed by davebaol :)</coder>
+	<short_description>Installs IOS236</short_description>
+	<long_description>Installs a patched IOS36 into the IOS236 slot.  Read all instructions carefully.</long_description>
+	<no_ios_reload/>
+</app>

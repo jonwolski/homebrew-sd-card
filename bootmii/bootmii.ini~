@@ -1,0 +1,13 @@
+# BootMii config file
+
+# Video mode, possible settings:
+# NTSC, PAL50, PAL60, PROGRESSIVE
+VIDEO=PROGRESSIVE
+
+# Autoboot, possible settings:
+# SYSMENU, HBC
+#AUTOBOOT=SYSMENU
+
+# Autoboot delay, in seconds:
+# Default is 5
+#BOOTDELAY=5
